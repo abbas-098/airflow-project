@@ -1,4 +1,4 @@
 dags/*
 logs/*
 plugins/*
-DS_Store
+.DS_Store
